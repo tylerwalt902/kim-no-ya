@@ -3,28 +3,28 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
+    url: 'https://1piece.me',
+    title: '1Piece - Watch One Piece Episodes Online For Free',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    copyright: '© All rights reserved.',
-    disqusShortname: '',
+      'Watch latest one piece episodes for free online in high quality updated weekly in HD.',
+    copyright: '© 1Piece.me. All rights reserved. Copyrights and trademarks for the anime, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.',
+    disqusShortname: '1pieceme',
     menu: [
       {
-        label: 'Articles',
+        label: 'Episodes',
         path: '/',
       },
       {
-        label: 'About me',
+        label: 'About',
         path: '/about/',
       },
       {
-        label: 'Contact me',
-        path: '/contact/',
+        label: 'DMCA',
+        path: '/dmca/',
       },
     ],
     author: {
-      name: 'John Doe',
+      name: '1Piece.me',
       email: '#',
       telegram: '#',
       twitter: '#',
