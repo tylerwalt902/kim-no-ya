@@ -54,6 +54,9 @@ class PostTemplateDetails extends React.Component {
               dangerouslySetInnerHTML={{ __html: post.html }}
             />
             <div className="post-single__body">
+               {post.frontmatter.description}
+            </div>
+            <div className="post-single__body">
                Watch One Piece {post.frontmatter.title} online in high quality. Watch One Piece {post.frontmatter.title} Subbed Online. Watch One Piece {post.frontmatter.title} in best quality. 
       Watch {post.frontmatter.title} of one piece in best quality. Download One Piece {post.frontmatter.title} in high quality.
             </div>
