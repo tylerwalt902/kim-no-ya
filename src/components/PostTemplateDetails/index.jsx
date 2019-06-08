@@ -47,7 +47,7 @@ class PostTemplateDetails extends React.Component {
         {homeBlock}
         <div className="post-single">
           <div className="post-single__inner">
-            <h1 className="post-single__title">{post.frontmatter.title}</h1>
+            <h1 className="post-single__title">Watch One Piece {post.frontmatter.title} Online</h1>
             <div
               className="post-single__body"
               /* eslint-disable-next-line react/no-danger */
