@@ -15,7 +15,7 @@ class PostTemplate extends React.Component {
       <Layout>
         <div>
           <Helmet>
-            <title>{`${postTitle} - ${title}`}</title>
+            <title>Watch one piece {`${postTitle} - ${title}`}</title>
             <meta name="description" content={description} />
           </Helmet>
           <PostTemplateDetails {...this.props} />
