@@ -54,6 +54,7 @@ class Sidebar extends React.Component {
             <Menu data={menu} />
             <div>
               <b>Current Time:</b>
+              <br />
             <iframe src="http://free.timeanddate.com/clock/i6soud1s/n137/fn17/ftb" frameborder="0" width="102" height="20"></iframe>
               <br />
               <b>Every Saturday at 07:00 PM</b>
