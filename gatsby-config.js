@@ -25,7 +25,6 @@ module.exports = {
     ],
     author: {
       name: '1Piece.me',
-      photo: '/photo.png',
       email: '#',
       telegram: '#',
       twitter: '#',
