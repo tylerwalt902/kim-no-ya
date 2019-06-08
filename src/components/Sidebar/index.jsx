@@ -53,7 +53,8 @@ class Sidebar extends React.Component {
           <div>
             <Menu data={menu} />
             <div>
-            <iframe src="http://free.timeanddate.com/clock/i6soud1s/n137/fn17/ftb" frameborder="0" width="102" height="20"></iframe>
+              <b>Current Time:</b>
+            <iframe src="http://free.timeanddate.com/clock/i6soud1s/n137/fn17/ftb" frameborder="0" width="102" height="20"></iframe><br>
               <b>Every Saturday at 07:00 PM</b>
             </div>
             <p className="sidebar__copyright">{copyright}</p>
