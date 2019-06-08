@@ -1,20 +1,15 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: Episode 887
+date: "2019-06-08T23:46:37.121Z"
 layout: post
 draft: false
-path: "/posts/perfecting-the-art-of-perfection/"
-category: "Design Inspiration"
+path: "/sub-one-piece-episode-887"
+category: "Subbed"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - "One Piece"
+  - "Subbed"
+description: "Big Mom contacts Kaido, informing him that she will be going to Wano Country to take Luffy's head. Kaido objects, having his own grudge against Luffy. Back at the Red Port, Garp has a conversation with Gion, Hina, and Tokikake."
 ---
-
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
-
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+**An Explosive Situation! Two Emperors of the Sea Going After Luffy!**
+<iframe width="640" height="360" src="https://www.rapidvideo.com/e/G3T4TXRIKN" frameborder="0" marginwidth=0 marginheight=0 scrolling=no allowfullscreen></iframe>
+Big Mom contacts Kaido, informing him that she will be going to Wano Country to take Luffy's head. Kaido objects, having his own grudge against Luffy. Back at the Red Port, Garp has a conversation with Gion, Hina, and Tokikake.
