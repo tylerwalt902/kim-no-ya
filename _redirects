@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://hopeful-cray-fede73.netlify.com/* http://1piece.me/:splat 301!
