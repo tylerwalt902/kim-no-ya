@@ -25,6 +25,7 @@ module.exports = {
     ],
     author: {
       name: '1Piece.me',
+      photo: '/photo.png',
       email: '#',
       telegram: '#',
       twitter: '#',
@@ -121,7 +122,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' },
+      options: { trackingId: 'UA-58419551-5' },
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
