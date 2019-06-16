@@ -8,7 +8,7 @@ category: "Subbed"
 tags:
   - "One Piece"
   - "Subbed"
-description: "Sabo Enraged! The Tragedy of the Revolutionary Army Officer Kuma!"
+description: "After Charlos was taken away, Mjosgard promises to protect Shirahoshi during the Reverie. Meanwhile, Sabo sneaks around Mariejois before going to the Domain of the Gods. Jewelry Bonney, who was disguised as the queen of the Sorbet Kingdom, sneaks into the Domain of the Gods when the injured Charlos is brought back there. When meeting his son, Rosward introduces his new slave, Bartholomew Kuma. While hiding underground, Sabo and his comrades plan to free Kuma."
 ---
 **Sabo Enraged! The Tragedy of the Revolutionary Army Officer Kuma!**
 
