@@ -1,6 +1,6 @@
 ---
 title: Episode 889
-date: "2019-06-16T23:46:37.121Z"
+date: "2019-06-15T23:46:37.121Z"
 layout: post
 draft: false
 path: "/sub-one-piece-episode-889"
