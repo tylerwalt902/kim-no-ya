@@ -8,7 +8,7 @@ category: "Subbed"
 tags:
   - "One Piece"
   - "Subbed"
-description: "Finally, It Starts! The Conspiracy-filled Reverie!"
+description: "As Rosward and Charlos are returning to their home, Sabo and his comrades hold a strategy meeting. Inside Pangaea Castle, the king and queens gather in the conference room to begin the Reverie. Meanwhile, the Five Elders have a secret meeting with the mysterious individual known as Im."
 ---
 **Finally, It Starts! The Conspiracy-filled Reverie!**
 
