@@ -1,15 +1,15 @@
 ---
-title: Episode 889
-date: "2019-06-15T23:46:37.121Z"
+title: Episode 890
+date: "2019-06-23T23:46:37.121Z"
 layout: post
 draft: false
-path: "/sub-one-piece-episode-889"
+path: "/sub-one-piece-episode-890"
 category: "Subbed"
 tags:
   - "One Piece"
   - "Subbed"
-description: "Finally, It Starts! The Conspiracy-filled Reverie!"
+description: "Marco! The Keeper of Whitebeard's Last Memento!"
 ---
-**Finally, It Starts! The Conspiracy-filled Reverie!**
+**Marco! The Keeper of Whitebeard's Last Memento!**
 
-<iframe width="640" height="360" src="https://www.rapidvideo.com/e/G42ZTJVATH" frameborder="0" marginwidth=0 marginheight=0 scrolling=no allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.rapidvideo.com/e/G4AWJR22TP" frameborder="0" marginwidth=0 marginheight=0 scrolling=no allowfullscreen></iframe>
