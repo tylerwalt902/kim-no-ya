@@ -8,7 +8,7 @@ category: "Subbed"
 tags:
   - "One Piece"
   - "Subbed"
-description: "Marco! The Keeper of Whitebeard's Last Memento!"
+description: "After reading about the Reverie in the newspaper, Luffy's group finds themselves in the perilous sea surrounding Wano Country, which leads to the bottom of a waterfall. Luffy uses the giant carp swimming around them to pull the crew and ship up the waterfall, but they end up sailing into a whirlpool at the top, causing Luffy to be submerged."
 ---
 **Marco! The Keeper of Whitebeard's Last Memento!**
 
