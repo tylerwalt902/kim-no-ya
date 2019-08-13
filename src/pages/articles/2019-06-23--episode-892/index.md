@@ -1,9 +1,9 @@
 ---
 title: Episode 892
-date: "2019-07-01T23:46:37.121Z"
+date: "2019-07-02T23:46:37.121Z"
 layout: post
 draft: false
-path: "/sub-one-piece-episode-891"
+path: "/sub-one-piece-episode-892"
 category: "Subbed"
 tags:
   - "One Piece"
