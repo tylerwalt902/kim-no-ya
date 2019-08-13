@@ -12,8 +12,9 @@ description: "While fighting the magistrate's men, Zoro retrieves his swords and
 ---
 **Otama Appears! Luffy vs. Kaido's Army!**
 <br>
-Video Server: <SELECT NAME="options" ONCHANGE="document.getElementById('anime-vd').src = this.options[this.selectedIndex].value">
+Video Server:
+<SELECT NAME="options" ONCHANGE="document.getElementById('anime-vd').src = this.options[this.selectedIndex].value">
 <option value="https://www.rapidvideo.com/e/G5Y2EROY56">Rapidvideo</option>
 <option value="https://verystream.com/e/58V6dRTD4Fg/">Verystream</option>
 </SELECT>
-<iframe width="720" height="720" src="https://www.rapidvideo.com/e/G5Y2EROY56" frameborder="0" marginwidth=0 marginheight=0 scrolling=no id="anime-vd" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.rapidvideo.com/e/G5Y2EROY56" frameborder="0" marginwidth=0 marginheight=0 scrolling=no id="anime-vd" allowfullscreen></iframe>
