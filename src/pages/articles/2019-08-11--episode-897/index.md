@@ -1,9 +1,9 @@
 ---
-title: Episode 896
+title: Episode 897
 date: "2019-08-04T23:46:37.121Z"
 layout: post
 draft: false
-path: "/sub-one-piece-episode-896"
+path: "/sub-one-piece-episode-897"
 category: "Subbed"
 tags:
   - "One Piece"
