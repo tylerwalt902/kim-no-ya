@@ -60,6 +60,8 @@ class Sidebar extends React.Component {
               <b>Every Saturday at 07:00 PM</b>
             </div>
             <p className="sidebar__copyright">{copyright}</p>
+            <br />
+            <p className="sidebar__copyright">Watch One Piece free episodes online. watchop online. one piece subbed online. one piece episode list. one piece english dubbed episodes. one piece anime online. </p>
           </div>
         </div>
       </div>
