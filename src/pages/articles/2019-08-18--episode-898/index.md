@@ -8,7 +8,7 @@ category: "Subbed"
 tags:
   - "One Piece"
   - "Subbed"
-description: "The Headliner! Hawkings the Magician Appears!"
+description: "Luffy and Zoro fight against Hawkins' men. Hawkins eventually steps in and displays his powers to them. Komachiyo grabs Luffy and Zoro and runs from the battle, but Hawkins pursues them."
 ---
 **The Headliner! Hawkings the Magician Appears!**
 

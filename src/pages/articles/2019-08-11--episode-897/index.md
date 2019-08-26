@@ -8,7 +8,7 @@ category: "Subbed"
 tags:
   - "One Piece"
   - "Subbed"
-description: "Save Otama! Straw Hat, Bounding through the Wasteland!"
+description: "Luffy and Komachiyo leave Hitetsu to take Tama to a doctor. At a wasteland, Zoro saves a woman from two Beasts Pirates. After arriving at the wasteland, Luffy reunites with Zoro. However, they are soon confronted by Hawkins."
 ---
 **Save Otama! Straw Hat, Bounding through the Wasteland!**
 
