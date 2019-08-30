@@ -3,10 +3,10 @@ const pxtorem = require('postcss-pxtorem')
 
 module.exports = {
   siteMetadata: {
-    url: 'https://1piece.me',
-    title: '1Piece - Watch One Piece Episodes Online For Free',
+    url: 'https://demon-slayer.1piece.me',
+    title: 'Watch Demon Slayer: Kimetsu no Yaiba Episodes Online For Free on 1Piece.me',
     subtitle:
-      'Watch latest one piece episodes for free online in high quality updated weekly in HD.',
+      'Watch latest Demon Slayer: Kimetsu no Yaiba episodes for free online in high quality updated weekly in HD.',
     copyright: '© 1Piece.me. All rights reserved. Copyrights and trademarks for the anime, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.',
     disqusShortname: '1pieceme',
     menu: [
@@ -24,7 +24,7 @@ module.exports = {
       },
     ],
     author: {
-      name: '1Piece.me',
+      name: '1Piece.me \n Demon Slayer: Kimetsu no Yaiba',
       email: '#',
       telegram: '#',
       twitter: '#',
