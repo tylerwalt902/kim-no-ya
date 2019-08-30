@@ -17,7 +17,7 @@ class Post extends React.Component {
       <div className="post">
         <h2 className="post__title">
           <Link className="post__title-link" to={slug}>
-            [Sub] Watch One Piece {title}
+            [Sub] Watch Demon Slayer: Kimetsu no Yaiba {title}
           </Link>
         </h2>
       </div>
