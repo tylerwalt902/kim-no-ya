@@ -22,6 +22,14 @@ module.exports = {
         label: 'DMCA',
         path: '/dmca/',
       },
+      {
+        label: 'Download Episodes',
+        path: '/download/',
+      },
+      {
+        label: 'Watch One Piece',
+        path: 'https://1piece.me/',
+      },
     ],
     author: {
       name: 'Demon Slayer: Kimetsu no Yaiba at 1Piece.me',
