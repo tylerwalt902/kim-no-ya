@@ -28,7 +28,7 @@ module.exports = {
       },
       {
         label: 'Watch One Piece',
-        path: 'https://1piece.me/',
+        path: '/watch-one-piece/',
       },
     ],
     author: {
