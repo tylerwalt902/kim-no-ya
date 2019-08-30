@@ -57,11 +57,11 @@ class Sidebar extends React.Component {
               <br />
             <iframe src="http://free.timeanddate.com/clock/i6soud1s/n137/fn17/ftb" frameborder="0" width="102" height="20"></iframe>
               <br />
-              <b>Every Saturday at 07:00 PM</b>
+              <b>Every Saturday at 09:00</b>
             </div>
             <p className="sidebar__copyright">{copyright}</p>
             <br />
-            <p className="sidebar__copyright">Watch One Piece free episodes online. watchop online. one piece subbed online. one piece episode list. one piece english dubbed episodes. one piece anime online. </p>
+            <p className="sidebar__copyright">Watch Demon Slayer: Kimetsu no Yaiba free episodes online. Demon Slayer: Kimetsu no Yaiba subbed online. Demon Slayer: Kimetsu no Yaiba episode list. Demon Slayer: Kimetsu no Yaiba english dubbed episodes. Demon Slayer: Kimetsu no Yaiba anime online. </p>
           </div>
         </div>
       </div>
