@@ -24,7 +24,7 @@ module.exports = {
       },
     ],
     author: {
-      name: '1Piece.me <br />Demon Slayer: Kimetsu no Yaiba',
+      name: 'Demon Slayer: Kimetsu no Yaiba at 1Piece.me',
       email: '#',
       telegram: '#',
       twitter: '#',
