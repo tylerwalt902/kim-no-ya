@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import moment from 'moment'
 import './style.scss'
+import './simp.css'
 
 class Post extends React.Component {
   render() {
@@ -17,7 +18,7 @@ class Post extends React.Component {
       <div className="post">
         <h2 className="post__title">
           <Link className="post__title-link" to={slug}>
-            [Sub] Watch Demon Slayer: Kimetsu no Yaiba {title}
+            [Sub] Watch One Piece {title}
           </Link>
         </h2>
       </div>
