@@ -46,9 +46,9 @@ class PostTemplateDetails extends React.Component {
     return (
       <div>
         {homeBlock}
-        <div className="post-single">	
+        <div className="post-single">
           <div className="post-single__inner">
-            <h1 className="post-single__title">Watch One Piece {post.frontmatter.title} Online</h1>
+            <h1 className="post-single__title">Watch Demon Slayer: Kimetsu no Yaiba {post.frontmatter.title} Online</h1>
             <div
               className="post-single__body"
               /* eslint-disable-next-line react/no-danger */
@@ -58,8 +58,8 @@ class PostTemplateDetails extends React.Component {
                {post.frontmatter.description}
             </div>
             <div className="post-single__body">
-               Watch One Piece {post.frontmatter.title} online in high quality. Watch One Piece {post.frontmatter.title} Subbed Online. Watch One Piece {post.frontmatter.title} in best quality. 
-      Watch {post.frontmatter.title} of one piece in best quality. Download One Piece {post.frontmatter.title} in high quality.
+               Watch Demon Slayer: Kimetsu no Yaiba {post.frontmatter.title} online in high quality. Watch Demon Slayer: Kimetsu no Yaiba {post.frontmatter.title} Subbed Online. Watch Demon Slayer: Kimetsu no Yaiba {post.frontmatter.title} in best quality.
+      Watch {post.frontmatter.title} of Demon Slayer: Kimetsu no Yaiba in best quality. Download Demon Slayer: Kimetsu no Yaiba {post.frontmatter.title} in high quality.
             </div>
             <div className="post-single__date">
               <em>
