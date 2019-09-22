@@ -1,6 +1,6 @@
 ---
 title: Episode 25
-date: "2019-09-14T14:30:00+00:00"
+date: "2019-09-21T14:30:00+00:00"
 layout: post
 draft: false
 path: "/sub-kimetsu-no-yaiba-episode-25"
